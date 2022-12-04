@@ -1,0 +1,95 @@
+.btn-primary{
+    background-color:rgb(151, 64, 64);
+}
+
+.col, .col-md{
+    background-color: tan;
+    text-align: center;
+    border: 1px dotted red;
+}
+
+.heading{
+    background-color: aquamarine;
+    font-size: 40px;
+    padding: 10px;
+    text-align: center;
+}
+.nav{
+    background-color: aqua;
+    padding: 5px;
+    font-size: large;
+}
+.nav ul{
+    display: flex;
+    margin-bottom: 0px;
+}
+.nav ul li{
+    list-style: none;
+    padding: 5px;
+}
+.article{
+    background-color: chartreuse;
+    padding: 10px;
+
+}
+.side{
+    background-color: cadetblue;
+    border: 1px dashed darkviolet;
+}
+.footer{
+    background-color: coral;
+}
+
+.row{
+    border:2px solid red;
+    margin: 0;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.pink{
+    background-color: pink;
+    border: 2px solid palevioletred;
+    padding: 5px;
+}
+.pink-2{
+    background-color: rgb(231, 151, 165);
+    border: 2px solid rgb(223, 63, 116);
+    padding: 5px;
+}
+.col-4{
+    border: 1px solid red;
+    padding: 5px;
+    background-color: chartreuse;
+}
+
+.col-6{
+    padding: 0;
+    border: 1px dashed purple;
+}
+
+
+
+.h-500{
+    height: 500px;
+}
+.red{
+    background-color: red;
+    border: 1px solid blueviolet;
+    height: 300px;
+}
+
+li{
+    list-style: none;
+    padding: 4px;
+}
+ul{
+    background-color: brown;
+    
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+}
